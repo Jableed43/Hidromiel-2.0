@@ -1,5 +1,3 @@
-
-
 .productos .button-add {
     border: none;
     font-size: 16px;
@@ -21,26 +19,17 @@
     flex-direction: column;
 }
 
-
-.productos .page-nav h1 {
-    text-align: center;
-    margin: 20px;
-    background-color: rgb(191, 137, 38);
-}
-
-
-
 .productos .page-content {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
-    justify-content: space-evenly;
 }
 
 .productos .product-container {
     background-color: rgb(191, 137, 38);
     margin: 15px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    transition: 0.3s;
+    transition: 0.s;
     padding: 10px 5px;
 }
 

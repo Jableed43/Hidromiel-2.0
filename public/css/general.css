@@ -30,12 +30,24 @@ body{
 
 }
 
-body main aside{
-    height: 85px;
+h1 {
+    text-align: center;
+    margin: 20px 0;
+    background-color: rgb(191, 137, 38);
+    font-size: 2em;
+    width: 100vw;
+}
+
+body aside{
+    height: 100%;
     margin-bottom: 10px;
 }
 
-body main .imagen-aside{
+body .imagen-aside {
     width: 100vw;
     height: 100%;
+}
+
+main img{
+    padding: 0 5px;
 }

@@ -1,37 +1,22 @@
 
-   .puntos-venta main{
-        width: 960px;
-        height: 28em;
-        background-color: #F9C941;
-        margin-left: auto;
-        margin-right: auto;
-        margin-bottom: 10px;
-        align-items: center;
+.puntos-venta main{
+    width: 100vw;
+    background-color: #F9C941;
+
     }
 
-    
-    .puntos-venta .puntoVenta{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-   }
-
-   .puntos-venta h1.puntoVenta {
-    display: flex;
-    margin-top: 40px;
-   }
-
-   .puntos-venta #caja-mapa{
-        width: 960px;
-        height: 23em;
-        background-color: #F9C941;
-        margin-left: auto;
-        margin-right: auto;
-        margin-top: 40px;
-        margin-bottom: 40px;
-        float: left;
+.puntos-venta h1.puntoVenta {
+    text-align: center;
+    background-color: rgb(191, 137, 38);
+    font-size: 2em;
     }
 
-    .puntos-venta iframe{
-        margin-top: 10px;
+.puntos-venta #caja-mapa{
+    width: 100vw;
+    background-color: #F9C941;
     }
+
+
+.puntos-venta iframe#main-map{
+    width: 100%;
+}

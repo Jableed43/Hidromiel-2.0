@@ -1,13 +1,11 @@
-.quienes-somos h1 {
-    text-align: center;
-    margin: 10px;
-}
+
 .quienes-somos p{
     text-align: center;
 }
 
 .quienes-somos .nosotros-contenedor {
     width: 100vw;
+    background-color: rgb(191, 137, 38);;
 }
 .quienes-somos .nosotros-contenedor p {
     margin-bottom: 15px;
