@@ -12,6 +12,9 @@ app.get('/', (req, res) => res.sendFile(path.join(__dirname, 'views', 'index.htm
 /* app get */
 app.get('/form', (req, res) => res.sendFile(path.join(__dirname, 'views', 'formularioweb.html')))
 
+app.post('/form', (req, res) => res.sendFile(path.join(__dirname, 'views', 'index.html')))
+
+
 /* app get */
 app.get('/productos', (req, res) => res.sendFile(path.join(__dirname, 'views', 'productos.html')))
 

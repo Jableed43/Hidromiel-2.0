@@ -1,4 +1,7 @@
 /* General */
+html{
+    scroll-behavior: smooth;
+}
 
 *{
     margin: 0;
@@ -13,6 +16,7 @@ p{
 
 a{
     text-decoration: none;
+    color: inherit;
 }
 @font-face {
     src: url(/fuente/thevalentine.ttf);

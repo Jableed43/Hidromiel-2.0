@@ -116,7 +116,7 @@ header input#menu[type=checkbox]:checked ~ nav .menu{
     }
     .menu li a {
         padding: 0;
-        font-size: 20px;
+        font-size: 35px;
 
     }
 
