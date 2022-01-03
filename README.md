@@ -7,5 +7,3 @@
 - Html y Css Puro
 - Incluye mediaqueries, versión mobile.
 ---
-
-- Sitio maquetado, diseñado y programado integralmente por mí
