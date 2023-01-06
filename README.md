@@ -1,11 +1,10 @@
-# E-commerce Hidromiel-2.0
----
-## Sobre el proyecto
-- Es una re-edición del proyecto final del curso codo a codo 4.0
----
-# Tecnologías usadas
-- Html y Css Puro
-- Incluye mediaqueries, versión mobile.
----
+## E-commerce Hidromiel-2.0
 
-[Sitio deployado](https://hidromiel.netlify.app/)
+***About the project***
+* I'ts a remake of hidromiel. Layout made with flexbox, focused on mobile version.*
+
+***Tecnologies***
+- Html Css
+- Includes desktop, tablet and mobile version.
+
+[Hidromiel 2.0](https://hidromiel.netlify.app/)
